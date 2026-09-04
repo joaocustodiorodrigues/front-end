@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>sucu</title>
+
+</head>
+<body>
+    <header>
+        <h1>Manoelzinho gomez </h1>
+        <p> Manoel </p>
+    </header>
+    <nav>
+        <a href="#">Cantor Caneta azul</a>
+        <a href="#"> morre</a>
+        <a href="#">Entenda o caso</a>
+    </nav>
+</body>
+</html>
