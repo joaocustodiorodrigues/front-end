@@ -8,13 +8,20 @@
 </head>
 <body>
     <header>
-        <h1>Manoelzinho gomez </h1>
-        <p> Manoel </p>
+        <h1>Manoel gomes </h1>
+        <p> Manoel-gomes</p>
     </header>
     <nav>
         <a href="#">Cantor Caneta azul</a>
         <a href="#"> morre</a>
         <a href="#">Entenda o caso</a>
     </nav>
+    <main>
+        <article>
+            <h1>
+                Música com mais de 10M de views 
+            </h1>
+        </article>
+    </main>
 </body>
 </html>
