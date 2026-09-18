@@ -21,7 +21,16 @@
             <h1>
                 Música com mais de 10M de views 
             </h1>
-        </article>
+            <h1>História de Manoel Gomes</h1>
+<p>O cantor e compositor <strong>Manoel Gomes</strong> tornou-se um dos maiores fenômenos da internet brasileira. Nascido no Maranhão, ele trabalhou por muitos anos como lavrador antes de alcançar o sucesso nacional com suas músicas simples e cativantes.</p>
+
+<h2>O Sucesso do Caneta Azul</h2>
+
+<p>Em 2019, Manoel ganhou notoriedade após compor a música <a href="https://www.youtube.com/watch?v=zP_N7_sKz10" target="_blank" class="externo">Caneta Azul</a>, inspirada em um fato simples do seu cotidiano: ter perdido sua caneta na escola. O vídeo viralizou rapidamente nas redes sociais e foi cantado por diversos artistas famosos, transformando o compositor em uma figura querida do público.</p>
+
+<picture>
+    <source media="(min-width:670px)" srcset="imagens/dan-droids.png">
+    <img src="imagens/dan-droids-pq.png" alt="Primeiro mascote do android"></picture>
     </main>
 </body>
 </html>
