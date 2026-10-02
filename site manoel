@@ -29,8 +29,8 @@
 <p>Em 2019, Manoel ganhou notoriedade após compor a música <a href="https://www.youtube.com/watch?v=zP_N7_sKz10" target="_blank" class="externo">Caneta Azul</a>, inspirada em um fato simples do seu cotidiano: ter perdido sua caneta na escola. O vídeo viralizou rapidamente nas redes sociais e foi cantado por diversos artistas famosos, transformando o compositor em uma figura querida do público.</p>
 
 <picture>
-    <source media="(min-width:670px)" srcset="imagens/dan-droids.png">
-    <img src="imagens/dan-droids-pq.png" alt="Primeiro mascote do android"></picture>
+    <source media="(min-width:670px)" srcset="imagens/manoel01.webp">
+    <img src="imagens/manoel-gomes.jpeg" alt="Primeiro mascote do android" width="400px"></picture>
     </main>
 </body>
 </html>
